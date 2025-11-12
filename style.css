@@ -261,9 +261,6 @@ table {
 td {
   width: 30%;
 }
-td:first-child {
-  background-color: #475569;
-}
 .improve-left a {
   font-size: 1.6rem;
   color: #2563eb;
@@ -501,3 +498,4 @@ td:first-child {
     flex-wrap: nowrap;
   }
 }
+
